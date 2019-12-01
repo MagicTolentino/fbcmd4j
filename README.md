@@ -12,6 +12,16 @@ Uso
 
 Este será un cliente de Facebook el cual realizará las siguientes funciones: NewsFeed, Obtener Wall, Publicar estado y link en el Wall.
 
+Obtener el NewsFeed del usuario que ejecuta la aplicación con la posibilidad de guardar las últimas N
+publicaciones en un archivo de texto.
+
+Obtener el Wall del usuario que ejecuta la aplicación con la posibilidad de guardar las últimas N publicaciones en
+un archivo de texto.
+
+Publicar un estado en el Wall del usuario que ejecuta la aplicación.
+
+Publicar un Link en el Wall del usuario que ejecuta la aplicación. 
+
 
 Créditos
 
